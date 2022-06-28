@@ -1,2 +1,7 @@
+spring:
+  datasource:
+    username: root
+    password: 
+    url: jdbc:tc:mysql:5.7.34:///
 polar:
   greeting: "Welcome to the catalog from the config server"
